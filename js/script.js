@@ -44,3 +44,5 @@ multiplicationForm.addEventListener("submit", (e) => {
 
     createTable(multiplicationNumber, multiplicatorNumber);
 })
+
+// att
